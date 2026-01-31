@@ -1,5 +1,5 @@
 # Auto solve for SJTU‘s ICS1 online test
-ICS1 lab2 的online test自动解题脚本，运行脚本一件扫荡，1s做完占领考试排行榜首！
+ICS1 lab2 的online test自动解题脚本
 
 源自本人复习online test时的小巧思，由于lab2(attack lab)的解题流程及其固定且可改动部分少，于是本人发动做题基因直接写了自动化脚本
 该脚本经过online test实测可以做到秒解出phase1-4，可以列出phase-5的所有答案可能性，不过需要手动排列不同可能的寄存器，有志之士可以进一步优化
